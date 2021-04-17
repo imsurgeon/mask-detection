@@ -1,0 +1,7 @@
+streamlit~=0.80.0
+numpy~=1.19.5
+opencv-python~=4.5.1.48
+tensorflow~=2.4.1
+Pillow~=8.1.2
+matplotlib~=3.3.4
+mtcnn~=0.1.0
